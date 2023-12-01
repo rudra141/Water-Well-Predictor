@@ -107,7 +107,6 @@ matplotlib-inline==0.1.6
 mdurl==0.1.2
 mistune==2.0.5
 multitasking==0.0.11
-mysqlclient @ file:///C:/Users/Raj/Downloads/mysqlclient-1.4.6-cp38-cp38-win_amd64.whl
 nbclassic==0.5.5
 nbclient==0.7.3
 nbconvert==7.3.0
