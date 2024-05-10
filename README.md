@@ -32,7 +32,7 @@ THE WEBSITE IS NOT FULLY COMPLETE NOW.
 - **Trained Model File:** (Not included in the repository) Trained machine learning model for accurate predictions.
 
 ## Deployment
-The AI Water Well Predictor is currently not deployed on any Platform right now. You can access the web application locally for now.
+The AI Water Well Predictor can be used here https://waterquality-6qya.onrender.com/
 
 ## Contributing
 Contributions to the AI Water Well Predictor are encouraged. Feel free to submit pull requests or open issues for any improvements or bug fixes.
