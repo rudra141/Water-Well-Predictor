@@ -17,9 +17,6 @@ The AI Water Well Predictor is an innovative project designed to assist in makin
 ## Web Page Video
 https://github.com/rudra141/Water-Well-Predictor/assets/111697664/d7ad0e1a-b39a-4b28-95dc-6ed20c9f7b12
 
-## NOTE:
-THE WEBSITE IS NOT FULLY COMPLETE NOW.
-
 ## Technologies Used
 - **Python:** Backend language for algorithm development.
 - **Flask:** Web framework for server-side processing.
