@@ -29,7 +29,8 @@ https://github.com/rudra141/Water-Well-Predictor/assets/111697664/d7ad0e1a-b39a-
 - **Trained Model File:** (Not included in the repository) Trained machine learning model for accurate predictions.
 
 ## Deployment
-The AI Water Well Predictor can be used here https://waterquality-6qya.onrender.com/
+The AI Water Well Predictor can be used here https://neer.onrender.com/
+We have named our website as NEER 
 
 ## Contributing
 Contributions to the AI Water Well Predictor are encouraged. Feel free to submit pull requests or open issues for any improvements or bug fixes.
