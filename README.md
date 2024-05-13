@@ -15,7 +15,7 @@ The AI Water Well Predictor is an innovative project designed to assist in makin
 4. Instant predictions regarding well construction suitability and groundwater quality are displayed on the web page.
 
 ## Web Page Video
-https://github.com/rudra141/Water-Well-Predictor/assets/111697664/d7ad0e1a-b39a-4b28-95dc-6ed20c9f7b12
+https://github.com/rudra141/Water-Well-Predictor/assets/111697664/8b1594c8-4137-42ec-9fbd-2dc2e52f9e8b
 
 ## Technologies Used
 - **Python:** Backend language for algorithm development.
